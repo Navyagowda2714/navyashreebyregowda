@@ -76,43 +76,51 @@
 
 ---
 
-## 🏆 Trophies
+---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Navyagowda2714&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=6" />
-  </a>
-</p>
+## 🧩 Featured Projects (My Work)
+
+### 📈 Data Science • ML • Analytics
+- **BigData-Mod-A-Stock-Market-Analysis**  
+  🔗 https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis  
+  **Brief:** Stock market data analysis with preprocessing, trend exploration, and visual insights.
+
+- **BigData-Mod-B-OULAD—Open-university-learning-analytics-dataset**  
+  🔗 https://github.com/Navyagowda2714/BigData-Mod-B-OULAD--Open-university-learning-analytics-dataset  
+  **Brief:** Learning analytics project using OULAD dataset to predict student performance using ML models and evaluation.
+
+- **FATER_CHALLENGE**  
+  🔗 https://github.com/Navyagowda2714/FATER_CHALLENGE  
+  **Brief:** Retail analytics + store segmentation using clustering and performance insights for decision-making.
+
+- **Stock Market Community Detection / Financial Network Analysis** *(if this matches your repo content)*  
+  🔗 (Add link if you have a separate repo for this)  
+  **Brief:** Graph-based market structure analysis to identify communities and relationships in financial time-series.
 
 ---
 
-## 🧩 Featured Projects
+### 🧠 Deep Learning • Computer Vision
+- **Wheat-growth-stage-classification**  
+  🔗 https://github.com/Navyagowda2714/Wheat-growth-stage-classification  
+  **Brief:** Deep learning image classification to identify wheat growth stages (agri AI use-case).
 
-<p align="center">
-  <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navyagowda2714&amp;repo=BigData-Mod-A-Stock-Market-Analysis&amp;hide_border=true&amp;bg_color=0B0F19&amp;title_color=00F5FF&amp;text_color=E6E6E6&amp;icon_color=9D4EDD" />
-  </a>
-  <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD--Open-university-learning-analytics-dataset">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navyagowda2714&amp;repo=BigData-Mod-B-OULAD--Open-university-learning-analytics-dataset&amp;hide_border=true&amp;bg_color=0B0F19&amp;title_color=00F5FF&amp;text_color=E6E6E6&amp;icon_color=9D4EDD" />
-  </a>
-</p>
+- **Dog-breed-classifier**  
+  🔗 https://github.com/Navyagowda2714/Dog-breed-classifier  
+  **Brief:** CNN-based classifier to predict dog breeds from images with training + evaluation workflow.
 
-<p align="center">
-  <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navyagowda2714&amp;repo=Wheat-growth-stage-classification&amp;hide_border=true&amp;bg_color=0B0F19&amp;title_color=00F5FF&amp;text_color=E6E6E6&amp;icon_color=9D4EDD" />
-  </a>
-  <a href="https://github.com/Navyagowda2714/Dog-breed-classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navyagowda2714&amp;repo=Dog-breed-classifier&amp;hide_border=true&amp;bg_color=0B0F19&amp;title_color=00F5FF&amp;text_color=E6E6E6&amp;icon_color=9D4EDD" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navyagowda2714&amp;repo=FATER_CHALLENGE&amp;hide_border=true&amp;bg_color=0B0F19&amp;title_color=00F5FF&amp;text_color=E6E6E6&amp;icon_color=9D4EDD" />
-  </a>
-  <a href="https://github.com/Navyagowda2714/Swiftchat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navyagowda2714&amp;repo=Swiftchat&amp;hide_border=true&amp;bg_color=0B0F19&amp;title_color=00F5FF&amp;text_color=E6E6E6&amp;icon_color=9D4EDD" />
-  </a>
-</p>
+### 💬 App Development • UI/UX Exploration
+- **Swiftchat**  
+  🔗 https://github.com/Navyagowda2714/Swiftchat  
+  **Brief:** Swift chat app prototype exploring messaging UI, layout, and app structure.
+
+
+---
+
+### 👤 Profile Repo
+- **Navyagowda2714 (Profile README)**  
+  🔗 https://github.com/Navyagowda2714/Navyagowda2714  
+  **Brief:** My GitHub profile page (skills, projects, and portfolio presentation).
 
 ---
