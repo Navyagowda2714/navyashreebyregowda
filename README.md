@@ -63,20 +63,18 @@
 
 ---
 
-## 📊 GitHub Activity
+## 🕒 GitHub Activity & Work
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Navyagowda2714&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0B0F19&amp;title_color=00F5FF&amp;text_color=E6E6E6&amp;icon_color=9D4EDD" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Navyagowda2714&amp;hide_border=true&amp;background=0B0F19&amp;ring=00F5FF&amp;fire=FF4D6D&amp;currStreakLabel=9D4EDD&amp;sideLabels=00D26A&amp;currStreakNum=E6E6E6&amp;sideNums=E6E6E6" />
+  <strong>Active since 2023</strong> • Focused on Data Science, AI Engineering, and Applied ML
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navyagowda2714&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B0F19&amp;title_color=00F5FF&amp;text_color=E6E6E6&amp;count_private=true" />
+  <img src="https://ghchart.rshah.org/00F5FF/Navyagowda2714" alt="GitHub Contributions Chart" />
 </p>
 
 ---
 
----
 
 ## 🧩 Featured Projects (My Work)
 
