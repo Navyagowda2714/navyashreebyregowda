@@ -116,22 +116,3 @@
 </p>
 
 ---
-
-## 🎬 Demos / GIFs / Screenshots
-
-### ✅ Option A: Add a GIF
-Upload your GIF to: `assets/demo.gif`
-
-<p align="center">
-  <img src="assets/demo.gif" width="800" />
-</p>
-
-### ✅ Option B: Add 2 screenshots
-Upload to:
-- `assets/screenshot1.png`
-- `assets/screenshot2.png`
-
-<p align="center">
-  <img src="assets/screenshot1.png" width="45%" />
-  <img src="assets/screenshot2.png" width="45%" />
-</p>
